@@ -3,7 +3,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 import talk_hhm as tk
 
 
-TOKEN = '810383631597354834:AAFwJSTkk8fUhvrjB5vydJSpzBfmXpKrHEg'
+TOKEN = '8103836315973548HEg'
 
 # TRIGGER_WORDS = {
 #    "안녕":"안녕하세요! 저는 혜미봇입니다!!😊",
